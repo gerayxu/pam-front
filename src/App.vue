@@ -21,6 +21,7 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+  font-weight: bolder;
 }
 html,body,#app{
   height: 100%;

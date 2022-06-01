@@ -32,3 +32,6 @@
 .data-page {
     height: 40px;
 }
+input {
+    font-weight: bolder;
+}
